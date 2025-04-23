@@ -1,0 +1,40 @@
+/* Callout Styling Options */
+:root {
+	--custom-callout-width: fit-content;
+	--custom-callout-padding: 12px 24px;
+}
+
+/* #region Callout Styling */
+/* Custom Callout Template
+
+.callout[data-callout="callout-type"] {
+	--callout-color: 255, 255, 255;
+	--callout-icon: lucide-alert-circle;
+}
+
+Icons: https://lucide.dev/icons/ */
+
+.callout {
+	width: var(--custom-callout-width);
+	padding: var(--custom-callout-padding);
+}
+
+	.callout[data-callout="note"] {
+		--callout-icon: lucide-book-open-text;
+	}
+
+	.callout[data-callout="dmg"] {
+		--callout-color: 168, 130, 255;
+		--callout-icon: lucide-book-open-text;
+	}
+
+	.callout[data-callout="mm"] {
+		--callout-color: 2, 122, 255;
+		--callout-icon: lucide-book-open-text;
+	}
+
+	.callout[data-callout="phb"] {
+		--callout-color: 233, 151, 63;
+		--callout-icon: lucide-book-open-text;
+	}
+/* #endregion */

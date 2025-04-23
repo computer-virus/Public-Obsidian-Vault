@@ -1,0 +1,14 @@
+/* Blockquote Styling Options */
+:root {
+	--custom-blockquote-padding: 8px 24px;
+	--custom-blockquote-border-radius: 4px;
+	--custom-blockquote-colorborder-width: 4px;
+}
+
+/* #region Blockquote Styling */
+blockquote {
+	padding: var(--custom-blockquote-padding) !important;
+	border-radius: var(--custom-blockquote-border-radius);
+	border-inline-start-width: var(--custom-blockquote-colorborder-width) !important;
+}
+/* #endregion */

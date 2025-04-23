@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "cab1d65bce0eb775",
+    "type": "split",
+    "children": [
+      {
+        "id": "07155f4b4749e8ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d480f07bb77358ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sam Talk Notes.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sam Talk Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da0b51fe483a11ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "07fc8cc95cbe162c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6057bcea340a0709",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5380e4311d4d9f2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cda8c0c998d60f10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a20f86d025e82b62",
+    "type": "split",
+    "children": [
+      {
+        "id": "7043570200644e94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a43b369e0a295bca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spellcaster's Crown/Session Notes/Lore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lore"
+            }
+          },
+          {
+            "id": "5d5ba3b91f85fe9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c26e0a1b99494b6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3e22ba23d743e282",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3767905a60c53d88",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dcb0ea13797a402d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Spellcaster's Crown/Session Notes/Lore.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Lore"
+            }
+          },
+          {
+            "id": "0e6cbb0eeff4db98",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d480f07bb77358ac",
+  "lastOpenFiles": [
+    "Monster Hunter Rise/Bow Combos.md",
+    "Misc/Slash Commands - Global/Template File.md",
+    "Misc/Slash Commands - Global/Template Viewer.md",
+    "Spellcaster's Crown/Session Notes/Competitors.md",
+    "Assets/Spellcaster's Crown/Player Tokens/Erza_Token.webp",
+    "Lem's One-Shot.md",
+    "Spellcaster's Crown/Session Notes/General Notes.md",
+    "Misc/D&D/Sourcebooks.md",
+    "Spellcaster's Crown/Session Notes/Mechanics.md",
+    "Spellcaster's Crown/Session Notes/Tournament Structure.md",
+    "Misc/D&D/Alchemist Rework.md",
+    "Spellcaster's Crown/Discohook.md",
+    "Spellcaster's Crown/Session Notes/Lore.md",
+    "Assets/Lost Verdana/olden_map_wip.png",
+    "Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_observatory (1152 x 1152 @ 72).jpg",
+    "Assets/Spellcaster's Crown/Discohook Avatars/spellcasters-crown.png",
+    "Assets/Currency/copper.svg",
+    "Monster Hunter Rise",
+    "Assets/Spellcaster's Crown/Player Tokens/Vego_Startreader_Token.webp",
+    "Assets/Spellcaster's Crown/Player Tokens/Vego_Token.webp",
+    "Testing Temp.md",
+    "Misc/Slash Commands - Global",
+    "Misc/D&D/VTTs.md",
+    "Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_dungeon (1656 x 1152 @ 72).jpg",
+    "Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_bedroom (1152 x 1152 @ 72).jpg",
+    "Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_library (1152 x 1152 @ 72).jpg",
+    "Temp Testing File.md",
+    "Assets/Spellcaster's Crown/Maps/Trial Finale",
+    "Assets/Spellcaster's Crown/Maps/Acid Trial",
+    "Assets/Spellcaster's Crown/Maps/Lightning Trial",
+    "Assets/Spellcaster's Crown/Maps/Cold Trial",
+    "Assets/Spellcaster's Crown/Maps/Thunder Trial",
+    "Assets/Spellcaster's Crown/Maps/Fire Trial",
+    "Assets/Spellcaster's Crown/Maps",
+    "Assets/Currency",
+    "Misc/D&D/Utils.md",
+    "Spellcaster's Crown/Untitled.canvas",
+    "Tournament Structure.md",
+    "Misc/README.md",
+    "Misc/README (OG).md",
+    "Notes/Untitled.md",
+    "Test File No 1.md",
+    "Sam Talk Notes.md",
+    "create a link.md"
+  ]
+}

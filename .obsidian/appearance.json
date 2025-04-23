@@ -1,0 +1,18 @@
+{
+  "accentColor": "#2780e6",
+  "theme": "obsidian",
+  "cssTheme": "Encore",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "callouts",
+    "Callouts",
+    "Leaflet",
+    "Mermard",
+    "Blockquote",
+    "Cicon",
+    "ConIcons",
+    "ControllerIcons",
+    "RemoveInlineTitle"
+  ]
+}

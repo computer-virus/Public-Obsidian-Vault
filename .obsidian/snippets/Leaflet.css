@@ -1,0 +1,15 @@
+/* Leaflet Styling Options */
+:root {
+	--custom-map-margin: none;
+	--custom-leaflet-logo-display: none;
+}
+
+/* #region Leaflet Styling */
+.block-language-leaflet {
+	margin: var(--custom-map-margin);
+}
+
+.leaflet-control-attribution.leaflet-control {
+	display: var(--custom-leaflet-logo-display);
+}
+/* #endregion */
