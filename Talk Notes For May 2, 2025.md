@@ -1,16 +1,18 @@
 # Subject Notes
 
-> [!abstract]- #1
+> [!list]- #1
 > - Item 1
 > - Item 2
 > - Item 3
 
-> [!abstract]- #2
-> - Item 1
-> - Item 2
-> - Item 3
+> [!list]- #2
+> - Subject interprets everything in a negative light.
+> - Subject takes thing too personally. Failure, in particular.
+> - Subject is unable to allow things to happen or work with RNG.
+> - Subject becomes too competitive against friend or foe alike.
+> - Subject is difficult to interact with without the fear of offending them.
 
-> [!abstract]- #3
+> [!list]- #3
 > - Subject believes that their problems are worse than others.
 > - Subject talks negatively about other people.
 > - Subject does not control their anger and yells often.
@@ -19,17 +21,17 @@
 > - Subject does not attempt to calmly explain what bothers them.
 > - Subject worsens the moods of the people around them, making others less willing to contribute.
 
-> [!abstract]- #4
+> [!list]- #4
 > - Item 1
 > - Item 2
 > - Item 3
 
-> [!abstract]- #5
+> [!list]- #5
 > - Item 1
 > - Item 2
 > - Item 3
 
-> [!abstract]- #6
+> [!list]- #6
 > - Item 1
 > - Item 2
 > - Item 3
@@ -48,7 +50,7 @@
 > > 
 > > |Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|
 > > |---|---|---|---|---|---|---|
-> > |<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|
+> > |Any time|Any time|Any time|Any time|Any time|Any time|Any time|
 
 > [!example]- #3
 > > **Availability:**
