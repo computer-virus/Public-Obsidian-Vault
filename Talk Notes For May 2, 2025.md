@@ -36,6 +36,11 @@
 > - Item 2
 > - Item 3
 
+> [!list]- #7
+> - Item 1
+> - Item 2
+> - Item 3
+
 # Future Scheduling (Starting May 5th, 2025)
 
 > [!example]-  #1
@@ -79,3 +84,10 @@
 > > |Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|
 > > |---|---|---|---|---|---|---|
 > > |N/A|Before 5:00 PM or after 9:00 PM (GMT-6)|Before 8:00 PM or after 10:00 PM (GMT-6)|Before 5:00 PM or after 9:00 PM (GMT-6)|Before 8:00 PM or after 10:00 PM (GMT-6)|Before 5:00 PM or after 9:00 PM (GMT-6)|N/A|
+
+> [!example]- #7
+> > **Availability:**
+> > 
+> > |Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|
+> > |---|---|---|---|---|---|---|
+> > |<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|
