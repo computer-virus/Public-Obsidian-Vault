@@ -3,7 +3,7 @@
 > [!list]- #1
 > - Subject makes it difficult for others to invest themselves in the at-hand topic when around, pulling conversations into other directions without consideration.
 > - Subject doesn't leave room for others to respond to conversations.
-> - Subject has denied most forms of self help and often applies the job of helping them onto others, which is very disheartening.
+> - Subject denies most forms of self help and often applies the job of helping them onto others, which is very disheartening.
 
 > [!list]- #2
 > - Subject interprets everything in a negative light.
@@ -32,14 +32,34 @@
 > - Item 3
 
 > [!list]- #6
-> - Item 1
-> - Item 2
-> - Item 3
+> - Subject is too easily angered, does not control it, and directs it towards others.
+> - Subject brings a bad mood from outside the conversation, only to have it affect the conversation poorly.
+> - Subject's temperament continues to worsen despite being given ample opportunity to improve it.
+> - Subject is unable to admit to/accept failure or fault, blaming others.
+> - Subject takes things under the most negative light, regardless of intent.
+> - Subject constantly talks negatively about others, both in front of them and behind their backs.
+> - Subject uses negative talk observed from social media at unapplicable times in conversation, especially when they dislike something.
+> - Subject is self-centered and cares little for others.
+> - Subject makes others feel responsible for their mood or situation.
+> - Subject does not care if they offend others but will keep a grudge if offended.
+> - Subject becomes upset when others do not respond appropriately to an unspoken plan/rule of theirs, despite the offender having no idea.
+> - Subject is too competitive during times where competitiveness is not appropriate.
+> - Subject constantly attempts one up others during a conversation.
+> - Subject is inconsolable when things don't go according to their plan or in a bad mood.
+> - Subject does not help themselves, refuses to be helped, and disregards suggestions or criticisms, even if asked for.
+> - Subject does not communicate their thoughts truthfully - even if asked to - believing their opinions to not matter.
+> - Subject demands control at all moments and blames others of taking away that control.
+> - Subject refuses to collaborate with others, believing their efforts wasted.
+> - Subject goes on long tangents whenever the topic of the conversation does not interest them.
 
 > [!list]- #7
-> - Item 1
-> - Item 2
-> - Item 3
+> - Subject's negative talk about others has caused some to have their own judgement about the person clouded by the Subject's judgements.
+> - Subject only participates when the topic is of interest to them.
+> - Subject is present during other's good times but not during times of trouble; a fair-weather friend.
+> - Subject disregards/insults suggestions given to them, even if they were the one to request it.
+> - Subject has insinuated to be willing to abuse animals.
+> - Subject demands others' attention and care but does not reciprocate.
+> - Subject is offended easily but refuses to admit guilt when they offend others.
 
 # Future Scheduling (Starting May 5th, 2025)
 
@@ -69,7 +89,7 @@
 > > 
 > > |Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|
 > > |---|---|---|---|---|---|---|
-> > |<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|
+> > |N/A|After 6:00 PM (GMT-4) (Not long weekend)|After 6:00 PM (GMT-4)|After 6:00 PM (GMT-4)|After 6:00 PM (GMT-4)|N/A|N/A|
 
 > [!example]- #5
 > > **Availability:**
