@@ -1,9 +1,9 @@
 # Subject Notes
 
 > [!list]- #1
-> - Item 1
-> - Item 2
-> - Item 3
+> - Subject makes it difficult for others to invest themselves in the at-hand topic when around, pulling conversations into other directions without consideration.
+> - Subject doesn't leave room for others to respond to conversations.
+> - Subject has denied most forms of self help and often applies the job of helping them onto others, which is very disheartening.
 
 > [!list]- #2
 > - Subject interprets everything in a negative light.
@@ -48,7 +48,7 @@
 > > 
 > > |Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|
 > > |---|---|---|---|---|---|---|
-> > |<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|<font color="#f00" style="text-decoration: underline;">[No Input Yet]</font>|
+> > |N/A|Any time|Any time|Between 9:00 AM and 5:00 PM (GMT-4) (Unstable)|Any time (Unstable)|Any time (Bi-weekly)|Any time until 10:00 PM (GMT-4)|
 
 > [!example]- #2
 > > **Availability:**
