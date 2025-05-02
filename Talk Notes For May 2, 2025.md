@@ -64,7 +64,6 @@
 > - Subject worsens the moods of others who try to help them.
 
 # Subject Notes (Merged)
-*Lists appear in alphabetical order.*
 
 > [!list]- Mood
 > - Subject is too easily angered, does not control it, and directs it towards others; which includes yelling.
