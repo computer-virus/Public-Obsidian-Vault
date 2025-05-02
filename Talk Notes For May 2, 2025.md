@@ -1,4 +1,4 @@
-# Subject Notes
+# Subject Notes (Individual)
 
 > [!list]- #1
 > - Subject makes it difficult for others to invest themselves in the at-hand topic when around, pulling conversations into other directions without consideration.
@@ -60,6 +60,52 @@
 > - Subject has insinuated to be willing to abuse animals.
 > - Subject demands others' attention and care but does not reciprocate.
 > - Subject is offended easily but refuses to admit guilt when they offend others.
+> - Subject vents to others without consent.
+> - Subject worsens the moods of others who try to help them.
+
+# Subject Notes (Merged)
+*Lists appear in alphabetical order.*
+
+> [!list]- Mood
+> - Subject is too easily angered, does not control it, and directs it towards others; which includes yelling.
+> - Subject brings a bad mood from outside the conversation, only to have it affect the conversation poorly.
+> - Subject's temperament continues to worsen despite being given ample opportunity to improve it.
+> - Subject becomes upset when others do not respond appropriately to an unspoken plan/rule of theirs, despite the offender having no idea.
+> - Subject is inconsolable when things don't go according to their plan or in a bad mood.
+
+> [!list]- Behavior
+> - Subject does not help themselves, refuses to be helped, and disregards suggestions or criticisms, even if asked for.
+> - Subject blames others for their short-comings.
+> - Subject demands control at all times; unable to allow things to happen or work with RNG.
+> - Subject wishes preemptively kick people out without a good reason.
+> - Subject worsens the moods of the people around them, making others less willing to contribute.
+> - Subject is present during other's good times but not during times of trouble; a fair-weather friend.
+
+> [!list]- Competitiveness
+> - Subject takes thing too personally. Unable to accept failure, in particular.
+> - Subject becomes too competitive against friend or foe alike.
+> - Subject is too competitive during times where competitiveness is not appropriate.
+
+> [!list]- Conversations
+> - Subject makes it difficult for others to invest themselves in the at-hand topic when around, pulling conversations into other tangents whenever they aren't interested in the topic.
+> - Subject doesn't leave room for others to respond to conversations.
+> - Subject is difficult to interact with without the fear of offending them.
+> - Subject attempts to one-up people when in a conversation.
+> - Subject does not attempt to calmly explain what bothers them.
+> - Subject does not communicate their thoughts truthfully - even if asked to - believing their opinions to not matter.
+> - Subject refuses to collaborate with others, believing their efforts wasted.
+> - Subject vents to others without consent.
+
+> [!list]- Negativity
+> - Subject interprets everything in a negative light.
+> - Subject talks negatively about other people, sometimes clouding the judgement of others.
+> - Subject believes that their problems are worse than others.
+> - Subject uses negative talk observed from social media at unapplicable times in conversation, especially when they dislike something.
+
+> [!list]- Selfishness
+> - Subject is self-centered and cares little for others.
+> - Subject does not care if they offend others but will keep a grudge if offended.
+> - Subject demands others' attention and care but does not reciprocate.
 
 # Future Scheduling (Starting May 5th, 2025)
 

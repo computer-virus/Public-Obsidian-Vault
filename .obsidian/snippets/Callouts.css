@@ -31,4 +31,30 @@ Icons: https://lucide.dev/icons/ */
 	.callout[data-callout="abstract"] {
 		--callout-icon: lucide-image;
 	}
+
+	.callout[data-callout="folder"] {
+		--callout-color: 255, 209, 79;
+		--callout-icon: lucide-folder;
+		--callout-border-width: 1px;
+		--callout-border-opacity: 1;
+		background: #000;
+		color: rgb(var(--callout-color));
+	}
+
+	/* #region Sourcebooks */
+	.callout[data-callout="dmg"] {
+		--callout-color: 168, 130, 255;
+		--callout-icon: lucide-book-open-text;
+	}
+
+	.callout[data-callout="mm"] {
+		--callout-color: 2, 122, 255;
+		--callout-icon: lucide-book-open-text;
+	}
+
+	.callout[data-callout="phb"] {
+		--callout-color: 233, 151, 63;
+		--callout-icon: lucide-book-open-text;
+	}
+	/* #endregion */
 /* #endregion */
