@@ -1,0 +1,37 @@
+/* Progress Bar Styling Options */
+:root {
+	--custom-progress-border-radius: 8px;
+	--custom-progress-color: #2780e6;
+	--custom-progress-background-color: #000;
+}
+
+/* #region Progress Bar Styling */
+.progress {
+	border: 1px solid currentColor;
+	border-radius: var(--custom-progress-border-radius);
+	background: var(--custom-progress-background-color);
+	width: 100%;
+}
+
+	.progress[size=sm] {
+		width: 300px;
+	}
+
+	.progress[size=md] {
+		width: 600px;
+	}
+
+	.progress[size=lg] {
+		width: 1200px;
+	}
+
+	.progress > div {
+		height: 16px;
+		border-radius: var(--custom-progress-border-radius);
+		background: var(--custom-progress-color);
+		text-align: center;
+		font-weight: bold;
+		font-size: 14px;
+		line-height: 16px;
+	}
+/* #endregion */

@@ -1,0 +1,35 @@
+/* Checkbox Styling Options */
+:root {
+	--custom-disabled-color: #f00;
+}
+
+/* #region Checkbox Styling */
+input[type="checkbox"] {
+	vertical-align: -2px;
+}
+
+input[type=checkbox]:checked:after {
+	background-color: #0000;
+}
+
+/* #region List Items */
+ul.contains-task-list > li.task-list-item.is-checked {
+	text-decoration: line-through;
+}
+
+ul.contains-task-list > li.task-list-item input {
+	vertical-align: 0.5px;
+}
+/* #endregion */
+
+/* #region Disabled Checkboxes */
+input[type=checkbox]:disabled,
+input[type=checkbox]:disabled:checked:hover {
+	border-color: var(--custom-disabled-color);
+}
+
+	input[type=checkbox]:disabled:checked {
+		background-color: var(--custom-disabled-color);
+	}
+/* #endregion */
+/* #endregion */
