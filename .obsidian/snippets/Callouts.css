@@ -2,9 +2,6 @@
 :root {
 	--custom-callout-width: fit-content;
 	--custom-callout-padding: 12px 24px;
-	--custom-statblock-color: 255, 0, 0;
-	--custom-statblock-padding: 12px;
-	--custom-statblock-title-font-size: 20px;
 }
 
 /* #region Callout Styling */
@@ -59,5 +56,115 @@ Icons: https://lucide.dev/icons/ */
 		--callout-color: 233, 151, 63;
 		--callout-icon: lucide-book-open-text;
 	}
-/* #endregion */
+	/* #endregion */
+
+	/* #region Stat Blocks */
+	.callout[data-callout="statblock"] {
+		--callout-color: 255, 0, 0;
+		--callout-icon: none;
+		--callout-border-width: 1px;
+		--callout-border-opacity: 1;
+		background: none;
+	}
+
+		.callout[data-callout="statblock"] .callout-title {
+			border-bottom: 1px solid rgb(var(--callout-color));
+			font-size: 1.5rem;
+		}
+
+		.callout[data-callout="statblock"] .callout-content h2 {
+			font-weight: 600;
+			color: rgb(var(--callout-color));
+			font-size: 1.5rem;
+			border-bottom: 1px solid rgb(var(--callout-color));
+			margin: 0;
+		}
+
+		.callout[data-callout="statblock"] .callout-content input[type=number] {
+			background: none;
+			border: 1px solid rgb(var(--callout-color));
+			font-size: 1rem;
+			padding: 4px;
+			text-align: center;
+			width: 2.5rem;
+		}
+		
+		.callout[data-callout="statblock"] .callout-content input[type=checkbox],
+		.callout[data-callout="statblock"] .callout-content input[type=checkbox]:checked:hover {
+			border-color: rgb(var(--callout-color));
+		}
+
+		.callout[data-callout="statblock"] .callout-content input[type=checkbox]:checked {
+			background-color: rgb(var(--callout-color));
+		}
+
+		.callout[data-callout="statblock"] .callout-content a {
+			background: none;
+			padding: 0;
+			color: currentColor;
+		}
+
+		.callout[data-callout="statblock"] .callout-content strong,
+		.callout[data-callout="statblock"] .callout-content strong {
+			color: rgb(var(--callout-color));
+		}
+
+		/* #region Attributes */
+		.callout[data-callout="statblock"] .callout-content p:has(em):first-of-type,
+		.callout[data-callout="statblock"] .callout-content h2 + p:has(em) {
+			color: #7f7f7f;
+			margin-top: 0.25rem;
+		}
+
+		.callout[data-callout="statblock"] .callout-content table:nth-child(2) th,
+		.callout[data-callout="statblock"] .callout-content table:nth-child(2) td {
+			border: none;
+			font-weight: normal;
+		}
+		/* #endregion */
+
+		/* #region Ability Score Table */
+		.callout[data-callout="statblock"] .callout-content table:nth-child(3) th {
+			font-weight: normal;
+			font-size: 0.7rem;
+			opacity: 0.5;
+		}
+
+		.callout[data-callout="statblock"] .callout-content table:nth-child(3) th,
+		.callout[data-callout="statblock"] .callout-content table:nth-child(3) td {
+			text-align: center;
+			border: none;
+		}
+
+			.callout[data-callout="statblock"] .callout-content table:nth-child(3) td:nth-child(1),
+			.callout[data-callout="statblock"] .callout-content table:nth-child(3) td:nth-child(2) {
+				background: rgba(var(--callout-color), 0.1);
+				color: rgb(var(--callout-color));
+			}
+
+			.callout[data-callout="statblock"] .callout-content table:nth-child(3) td:nth-child(3),
+			.callout[data-callout="statblock"] .callout-content table:nth-child(3) td:nth-child(4) {
+				background: rgba(var(--callout-color), 0.2);
+				color: rgb(var(--callout-color));
+			}
+
+			.callout[data-callout="statblock"] .callout-content table:nth-child(3) td:nth-child(4) {
+				border-right: 0.5rem solid #0000;
+			}
+
+			.callout[data-callout="statblock"] .callout-content table:nth-child(3) td:nth-child(5),
+			.callout[data-callout="statblock"] .callout-content table:nth-child(3) td:nth-child(6) {
+				background: rgba(var(--callout-color), 0.1);
+				color: rgb(var(--callout-color));
+				filter: invert(1);
+			}
+
+			.callout[data-callout="statblock"] .callout-content table:nth-child(3) td:nth-child(7),
+			.callout[data-callout="statblock"] .callout-content table:nth-child(3) td:nth-child(8) {
+				background: rgba(var(--callout-color), 0.2);
+				color: rgb(var(--callout-color));
+				filter: invert(1);
+			}
+		/* #endregion */
+	/* #endregion */
 /* #endregion */

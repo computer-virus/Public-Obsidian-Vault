@@ -13,6 +13,8 @@
     "Cicon",
     "ConIcons",
     "ControllerIcons",
-    "RemoveInlineTitle"
+    "RemoveInlineTitle",
+    "CheckBoxes",
+    "ProgressBars"
   ]
 }

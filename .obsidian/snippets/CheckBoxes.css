@@ -6,6 +6,7 @@
 /* #region Checkbox Styling */
 input[type="checkbox"] {
 	vertical-align: -2px;
+	margin: 0;
 }
 
 input[type=checkbox]:checked:after {

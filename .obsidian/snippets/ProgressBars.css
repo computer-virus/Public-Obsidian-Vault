@@ -1,37 +1,39 @@
 /* Progress Bar Styling Options */
 :root {
 	--custom-progress-border-radius: 8px;
-	--custom-progress-color: #2780e6;
+	--custom-default-progress-color: #2780e6;
 	--custom-progress-background-color: #000;
+	--custom-progress-outline-color: #fff;
 }
 
 /* #region Progress Bar Styling */
-.progress {
-	border: 1px solid currentColor;
+input[type=range].progress {
+	width: 100%;
+	height: 16px;
+	border: 1px solid var(--custom-progress-outline-color);
 	border-radius: var(--custom-progress-border-radius);
 	background: var(--custom-progress-background-color);
-	width: 100%;
+	overflow: hidden;
+	-webkit-appearance: none;
+	color: var(--custom-default-progress-color);
 }
 
-	.progress[size=sm] {
-		width: 300px;
+	input[type=range].progress::-webkit-slider-thumb {
+		width: 0px;
+		height: 0px;
+		-webkit-appearance: none;
+		box-shadow: -9999px 0 0 9999px currentColor;
 	}
 
-	.progress[size=md] {
-		width: 600px;
-	}
+input[type=range][size=sm].progress {
+	width: 300px;
+}
 
-	.progress[size=lg] {
-		width: 1200px;
-	}
+input[type=range][size=md].progress {
+	width: 600px;
+}
 
-	.progress > div {
-		height: 16px;
-		border-radius: var(--custom-progress-border-radius);
-		background: var(--custom-progress-color);
-		text-align: center;
-		font-weight: bold;
-		font-size: 14px;
-		line-height: 16px;
-	}
+input[type=range][size=lg].progress {
+	width: 1200px;
+}
 /* #endregion */
