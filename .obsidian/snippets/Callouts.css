@@ -102,11 +102,12 @@ Icons: https://lucide.dev/icons/ */
 			background: none;
 			padding: 0;
 			color: currentColor;
+			text-decoration-color: #77cf53;
 		}
 
-		.callout[data-callout="statblock"] .callout-content strong,
 		.callout[data-callout="statblock"] .callout-content strong {
 			color: rgb(var(--callout-color));
+			font-weight: bold;
 		}
 
 		/* #region Attributes */

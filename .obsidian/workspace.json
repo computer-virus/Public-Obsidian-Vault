@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lost Verdana/W.I.P. Olden Map.md",
+                "file": "Shane's Campaign/Edward's Character Sheet.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "W.I.P. Olden Map"
+              "title": "Edward's Character Sheet"
             }
           }
         ]
@@ -205,9 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a99b37e5514e536e",
+  "active": "6057bcea340a0709",
   "lastOpenFiles": [
     "Lost Verdana/W.I.P. Olden Map.md",
+    "Shane's Campaign",
+    "Shane's Campaign/Edward's Character Sheet.md",
     "Talk Notes/May 2, 2025.md",
     "Assets/Lost Verdana/olden_map_wip.png",
     "Talk Notes",
@@ -243,7 +245,6 @@
     "Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_library (1152 x 1152 @ 72).jpg",
     "Temp Testing File.md",
     "Assets/Spellcaster's Crown/Maps/Trial Finale",
-    "Assets/Spellcaster's Crown/Maps/Acid Trial",
     "Misc/D&D/Utils.md",
     "Spellcaster's Crown/Untitled.canvas",
     "Tournament Structure.md",
