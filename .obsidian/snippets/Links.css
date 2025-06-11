@@ -1,0 +1,51 @@
+/* Link Styling Options */
+:root {
+	--custom-link-color: #4b9eec;
+	--custom-broken-link-color: #f00;
+	--custom-link-hover-filter: hue-rotate(180deg);
+}
+
+/* #region Link Styling */
+.markdown-rendered .internal-link,
+.markdown-rendered .external-link {
+	padding: 0;
+	background: none;
+	color: var(--custom-link-color);
+	text-decoration: underline;
+	text-decoration-color: currentColor;
+}
+
+	.markdown-rendered .internal-link:hover,
+	.markdown-rendered .external-link:hover {
+		filter: var(--custom-link-hover-filter);
+	}
+
+		.markdown-rendered .internal-link:hover:has(button),
+		.markdown-rendered .external-link:hover:has(button) {
+			filter: none;
+		}
+
+	/* #region Link Color Uniformity */
+	.markdown-rendered !.internal-link *,
+	.markdown-rendered !.external-link * {
+		text-decoration: none;
+	}
+
+	.markdown-rendered .internal-link :not(button),
+	.markdown-rendered .external-link :not(button) {
+		text-decoration: underline;
+		text-decoration-color: currentColor;
+	}
+	/* #endregion */
+
+	/* #region Broken Links */
+	.broken-link {
+		color: var(--custom-broken-link-color);
+		text-decoration: underline;
+	}
+
+		.broken-link:hover {
+			filter: var(--custom-link-hover-filter);
+		}
+	/* #endregion */
+/* #endregion */

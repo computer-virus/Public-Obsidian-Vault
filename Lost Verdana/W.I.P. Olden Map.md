@@ -3,7 +3,7 @@
 id: olden-map
 
 # Map Image
-image: [[Assets/Lost Verdana/olden_map_wip.png]]
+image: [[Vault Assets/Lost Verdana/olden_map_wip.png]]
 
 # Map Canvas Size
 width: 1080px

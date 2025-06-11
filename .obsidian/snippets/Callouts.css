@@ -2,6 +2,7 @@
 :root {
 	--custom-callout-width: fit-content;
 	--custom-callout-padding: 12px 24px;
+	--custom-callout-stablock-link-color: #77cf53;
 }
 
 /* #region Callout Styling */
@@ -18,6 +19,11 @@ Icons: https://lucide.dev/icons/ */
 	width: var(--custom-callout-width);
 	padding: var(--custom-callout-padding);
 }
+
+	.callout .internal-link,
+	.callout .external-link {
+		text-decoration: underline;
+	}
 
 	.callout[data-callout="note"] {
 		--callout-icon: lucide-book-open-text;
@@ -88,22 +94,26 @@ Icons: https://lucide.dev/icons/ */
 			text-align: center;
 			width: 2.5rem;
 		}
-		
+
 		.callout[data-callout="statblock"] .callout-content input[type=checkbox],
 		.callout[data-callout="statblock"] .callout-content input[type=checkbox]:checked:hover {
 			border-color: rgb(var(--callout-color));
 		}
 
-		.callout[data-callout="statblock"] .callout-content input[type=checkbox]:checked {
-			background-color: rgb(var(--callout-color));
-		}
+			.callout[data-callout="statblock"] .callout-content input[type=checkbox]:checked {
+				background-color: rgb(var(--callout-color));
+			}
 
 		.callout[data-callout="statblock"] .callout-content a {
 			background: none;
 			padding: 0;
 			color: currentColor;
-			text-decoration-color: #77cf53;
+			text-decoration-color: var(--custom-callout-stablock-link-color);
 		}
+
+			.callout[data-callout="statblock"] .callout-content a:hover {
+				color: var(--custom-callout-stablock-link-color);
+			}
 
 		.callout[data-callout="statblock"] .callout-content strong {
 			color: rgb(var(--callout-color));

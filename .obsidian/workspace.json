@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a99b37e5514e536e",
+            "id": "7a016f6c184114a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shane's Campaign/Edward's Character Sheet.md",
+                "file": "Slash Command Templates.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Edward's Character Sheet"
+              "title": "Slash Command Templates"
             }
           }
         ]
@@ -205,17 +205,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6057bcea340a0709",
+  "active": "7a016f6c184114a2",
   "lastOpenFiles": [
-    "Lost Verdana/W.I.P. Olden Map.md",
-    "Shane's Campaign",
+    "Slash Command Templates.md",
+    "Vault Assets/Currency/silver.svg",
+    "Vault Assets/Currency/platinum.svg",
+    "Vault Assets/Currency/gold.svg",
+    "Vault Assets/Currency/electrum.svg",
+    "Vault Assets/Currency/copper.svg",
     "Shane's Campaign/Edward's Character Sheet.md",
+    "Lost Verdana/W.I.P. Olden Map.md",
+    "Vault Assets/Currency",
+    "Slash Commands",
     "Talk Notes/May 2, 2025.md",
-    "Assets/Lost Verdana/olden_map_wip.png",
+    "Shane's Campaign",
+    "Vault Assets/Lost Verdana/olden_map_wip.png",
     "Talk Notes",
     "Lost Verdana",
-    "Assets",
-    "Assets/Lost Verdana",
+    "Vault Assets",
+    "Vault Assets/Lost Verdana",
     "l4kitqze.amk~",
     "New Text Document.txt",
     "Monster Hunter Rise/Bow Combos.md",
@@ -235,23 +243,15 @@
     "Assets/Spellcaster's Crown/Discohook Avatars/spellcasters-crown.png",
     "Assets/Currency/copper.svg",
     "Monster Hunter Rise",
-    "Assets/Spellcaster's Crown/Player Tokens/Vego_Startreader_Token.webp",
-    "Assets/Spellcaster's Crown/Player Tokens/Vego_Token.webp",
     "Testing Temp.md",
-    "Misc/Slash Commands - Global",
     "Misc/D&D/VTTs.md",
-    "Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_dungeon (1656 x 1152 @ 72).jpg",
-    "Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_bedroom (1152 x 1152 @ 72).jpg",
-    "Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_library (1152 x 1152 @ 72).jpg",
     "Temp Testing File.md",
-    "Assets/Spellcaster's Crown/Maps/Trial Finale",
     "Misc/D&D/Utils.md",
     "Spellcaster's Crown/Untitled.canvas",
     "Tournament Structure.md",
     "Misc/README.md",
     "Misc/README (OG).md",
     "Notes/Untitled.md",
-    "Test File No 1.md",
-    "create a link.md"
+    "Test File No 1.md"
   ]
 }
