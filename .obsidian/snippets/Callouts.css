@@ -47,6 +47,10 @@ Icons: https://lucide.dev/icons/ */
 		color: rgb(var(--callout-color));
 	}
 
+	.callout[data-callout="danger"] .callout-content {
+		color: rgb(var(--callout-color));
+	}
+
 	/* #region Sourcebooks */
 	.callout[data-callout="dmg"] {
 		--callout-color: 168, 130, 255;

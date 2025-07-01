@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a016f6c184114a2",
+            "id": "efdf31583c2d1cfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slash Command Templates.md",
+                "file": "Cheat Sheets/Bomb Defusal Cheat Sheet.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Slash Command Templates"
+              "title": "Bomb Defusal Cheat Sheet"
             }
           }
         ]
@@ -205,32 +205,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a016f6c184114a2",
+  "active": "efdf31583c2d1cfc",
   "lastOpenFiles": [
     "Slash Command Templates.md",
-    "Vault Assets/Currency/silver.svg",
-    "Vault Assets/Currency/platinum.svg",
-    "Vault Assets/Currency/gold.svg",
-    "Vault Assets/Currency/electrum.svg",
-    "Vault Assets/Currency/copper.svg",
-    "Shane's Campaign/Edward's Character Sheet.md",
+    "Cheat Sheets/Bomb Defusal Cheat Sheet.md",
+    "Cheat Sheets",
+    "Vault Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_observatory (1152 x 1152 @ 72).jpg",
+    "Vault Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_library (1152 x 1152 @ 72).jpg",
+    "Vault Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_dungeon (1656 x 1152 @ 72).jpg",
+    "Vault Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_bedroom (1152 x 1152 @ 72).jpg",
+    "Vault Assets/Spellcaster's Crown/Maps/Fire Trial/trial_of_fire (4970 x 5390 @ 70).png",
+    "Vault Assets/Spellcaster's Crown/Maps/Fire Trial/fire_sentry (1152 x 1584 @ 96).jpg",
+    "Vault Assets/Spellcaster's Crown/Player Tokens/Vego_Startreader_Token.webp",
+    "Vault Assets/Spellcaster's Crown/Player Tokens/Ubo_Token.webp",
+    "Vault Assets/Spellcaster's Crown/Player Tokens/Shadow_Walker_Token.webp",
+    "Vault Assets/Spellcaster's Crown/Player Tokens/Rekimat_Token.webp",
+    "Vault Assets/Spellcaster's Crown/Maps/Trial Finale",
+    "Vault Assets/Spellcaster's Crown/Maps/Thunder Trial",
+    "Vault Assets/Spellcaster's Crown/Maps/Lightning Trial",
+    "Vault Assets/Spellcaster's Crown/Maps/Fire Trial",
+    "Vault Assets/Spellcaster's Crown/Maps/Cold Trial",
+    "Vault Assets/Spellcaster's Crown/Maps/Acid Trial",
+    "Vault Assets/Spellcaster's Crown/Player Tokens",
+    "Vault Assets/Spellcaster's Crown/Monster Tokens",
+    "Vault Assets/Spellcaster's Crown/Maps",
     "Lost Verdana/W.I.P. Olden Map.md",
-    "Vault Assets/Currency",
-    "Slash Commands",
+    "Shane's Campaign/Edward's Character Sheet.md",
     "Talk Notes/May 2, 2025.md",
-    "Shane's Campaign",
-    "Vault Assets/Lost Verdana/olden_map_wip.png",
-    "Talk Notes",
-    "Lost Verdana",
-    "Vault Assets",
-    "Vault Assets/Lost Verdana",
-    "l4kitqze.amk~",
-    "New Text Document.txt",
     "Monster Hunter Rise/Bow Combos.md",
     "Misc/Slash Commands - Global/Template File.md",
     "Misc/Slash Commands - Global/Template Viewer.md",
     "Spellcaster's Crown/Session Notes/Competitors.md",
-    "Assets/Spellcaster's Crown/Player Tokens/Erza_Token.webp",
     "Lem's One-Shot.md",
     "Spellcaster's Crown/Session Notes/General Notes.md",
     "Misc/D&D/Sourcebooks.md",
@@ -239,10 +244,6 @@
     "Misc/D&D/Alchemist Rework.md",
     "Spellcaster's Crown/Discohook.md",
     "Spellcaster's Crown/Session Notes/Lore.md",
-    "Assets/Spellcaster's Crown/Maps/Thunder Trial/thunder_trial_observatory (1152 x 1152 @ 72).jpg",
-    "Assets/Spellcaster's Crown/Discohook Avatars/spellcasters-crown.png",
-    "Assets/Currency/copper.svg",
-    "Monster Hunter Rise",
     "Testing Temp.md",
     "Misc/D&D/VTTs.md",
     "Temp Testing File.md",
@@ -251,7 +252,6 @@
     "Tournament Structure.md",
     "Misc/README.md",
     "Misc/README (OG).md",
-    "Notes/Untitled.md",
-    "Test File No 1.md"
+    "Notes/Untitled.md"
   ]
 }

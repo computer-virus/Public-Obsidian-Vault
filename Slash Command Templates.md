@@ -2,6 +2,10 @@
 __ 
 <u>text to see the underline</u>
 
+# Skill Checks
+/skill-check 
+DC X Ability ([Skill](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check
+
 # Broken Links
 /broken-link 
 <a class="broken-link">link[broken link]</a>
@@ -32,7 +36,7 @@ __
 
 ## Note
 /note 
-> [!note] [[Slash Command Templates]]
+> [!note] [[Template File|Misc > Slash Commands - Global > Template File]]
 
 ## List
 /list 

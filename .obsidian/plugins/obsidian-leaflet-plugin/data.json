@@ -1,5 +1,157 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "test",
+      "lastAccessed": 1742956093915,
+      "markers": [
+        {
+          "id": "ID_188a69e91ac9",
+          "type": "default",
+          "loc": [
+            -10.506500244140625,
+            6.99609375
+          ],
+          "layer": "%5B%5BAssets%2FLost%20Verdana%2Folden_map_wip.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Spellcaster's Crown/Session Notes/Lore.md"
+      ]
+    },
+    {
+      "id": "bob",
+      "lastAccessed": 1742958568701,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polygon",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -6.7056884765625,
+              "lng": 3.4375,
+              "id": "ID_58ab298ac818",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -7.756077506139944,
+              "lng": 2.806330037834111,
+              "id": "ID_fb090ba8e8ca",
+              "targets": {
+                "vertexIds": [
+                  "ID_197b2b78c90b",
+                  "ID_69cb1988891a"
+                ]
+              }
+            },
+            {
+              "lat": -8.0963134765625,
+              "lng": 4.59375,
+              "id": "ID_28e88bab3a09",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -7.137359072601715,
+              "lng": 6.772757138552401,
+              "id": "ID_3ab97bd99bfa",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "polygon",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -7.756077506139944,
+              "lng": 2.806330037834111,
+              "id": "ID_197b2b78c90b",
+              "targets": {
+                "vertexIds": [
+                  "ID_fb090ba8e8ca",
+                  "ID_69cb1988891a"
+                ]
+              }
+            },
+            {
+              "lat": -7.756077506139944,
+              "lng": 2.806330037834111,
+              "id": "ID_69cb1988891a",
+              "targets": {
+                "vertexIds": [
+                  "ID_fb090ba8e8ca",
+                  "ID_197b2b78c90b"
+                ]
+              }
+            },
+            {
+              "lat": -8.0546875,
+              "lng": 3.8359375,
+              "id": "ID_88b91919aa7b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -9.13714543814492,
+              "lng": 2.043980539367364,
+              "id": "ID_d88a39eb1bd9",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        }
+      ],
+      "files": [
+        "Spellcaster's Crown/Session Notes/Lore.md"
+      ]
+    },
+    {
+      "id": "olden-map",
+      "lastAccessed": 1743048595597,
+      "markers": [
+        {
+          "id": "ID_fa7bd92b5b2a",
+          "type": "default",
+          "loc": [
+            -2.3216094970703125,
+            1.875
+          ],
+          "link": "Tournament Structure#Trial of Fire",
+          "layer": "%5B%5BAssets%2FLost%20Verdana%2Folden_map_wip.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tower Promise | Fire Trial",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Spellcaster's Crown/Session Notes/Lore.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker-alt",
@@ -141,22 +293,6 @@
       "maxZoom": null
     },
     {
-      "type": "violet",
-      "iconName": "map-marker-alt",
-      "color": "#6f00dd",
-      "alpha": 1,
-      "layer": true,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": false,
-      "tags": [],
-      "minZoom": null,
-      "maxZoom": null
-    },
-    {
       "type": "pink",
       "iconName": "map-marker-alt",
       "color": "#dd6fdd",
@@ -237,7 +373,23 @@
       "maxZoom": null
     },
     {
-      "type": "gray",
+      "type": "violet",
+      "iconName": "map-marker-alt",
+      "color": "#6f00dd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "grey",
       "iconName": "map-marker-alt",
       "color": "#6f6f6f",
       "alpha": 1,
@@ -253,7 +405,7 @@
       "maxZoom": null
     },
     {
-      "type": "grey",
+      "type": "gray",
       "iconName": "map-marker-alt",
       "color": "#6f6f6f",
       "alpha": 1,
@@ -320,7 +472,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {},
   "enableDraw": true,
-  "defaultUnitType": "imperial",
+  "defaultUnitType": "metric",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",

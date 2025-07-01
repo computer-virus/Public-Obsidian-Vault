@@ -3,5 +3,8 @@
   "showLineNumber": true,
   "readableLineLength": false,
   "defaultViewMode": "preview",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true
 }
